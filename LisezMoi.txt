@@ -1,9 +1,9 @@
 
 Le dossier "ec" est pour les sources et programmes dans Eclipse,
-des sections 2 et 4 du document "systematic-overtures-numbers".
+des sections 2 et 4 du document "systematic-secure-numbers".
 
-Décompresser ec.zip dans ~/proj/. 
+DÃ©compresser ec.zip dans ~/proj/. 
 Ensuite ec-jfreechart.zip et simulation-math.zip dans ~/proj/ec/.
 
 Le dossier "vs" est pour la section 3: P =? NP.
-Décompresser vs-keys-service.zip dans vs.
+DÃ©compresser vs-keys-service.zip dans vs.
